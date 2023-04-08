@@ -1,0 +1,26 @@
+commands:
+  LiveBans:
+  ban:
+  tempban:
+  ipban:
+    aliases: [banip, ban-ip]
+  tempipban:
+    aliases: [tipban]
+  kick:
+  warn:
+  note:
+  tempwarn:
+  mute:
+  tempmute:
+  banlist:
+  history:
+  warns:
+  notes:
+  check:
+  systemPrefs:
+  unwarn:
+  unnote:
+  unpunish:
+  unban:
+  unmute:
+  change-reason:
